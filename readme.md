@@ -12,4 +12,4 @@
 
 :smile:
 
-> [!WARNING]
+> [WARNING]
