@@ -8,7 +8,7 @@
 
 *** Hola, soy un buscador de Google ***
 
-![MDA](.venv/imagen/images.jpg)
+![MDA](imagen/images.jpg)
 
 :smile:
 
