@@ -24,10 +24,9 @@ La IA ya forma parte de nuestra vida diaria y seguirá creciendo, ofreciendo ven
 
 ![MDA](imagen/images.jpg)
 
+## Este es Manolito ##
+
 :smile:
 
 > [WARNING]
 
-## Este es Manolito ##
-
-### Hola, soy Adrian ###
